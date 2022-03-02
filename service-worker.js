@@ -4,6 +4,9 @@ var cacheFiles = [
     'lessons.js',
     'service-worker.js',
     'lessons.webmanifest',
+    'style.css',
+    'img/lesson-icon-13.jpg',
+    'img/lesson-icon-13.resize.png'
 ];
 
 self.addEventListener('install', (e) => {
