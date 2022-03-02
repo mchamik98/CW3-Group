@@ -1,0 +1,21 @@
+{
+    "name": "Lessons PWA",
+    "short_name": "PWA",
+    "description": "Online Lessons Store",
+    "icons": [
+        {
+            "src": "img/Basketball.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "img/History.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        }
+
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#B12A34"
+}
